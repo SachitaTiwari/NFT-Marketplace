@@ -234,6 +234,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Community**: For feedback and contributions
 
 ---
+![image](https://github.com/user-attachments/assets/28b9efac-664d-4423-ba95-5d38c01e2f50)
+0x2aE4F455D2d6402993Ebb193949F2798919d9129
 
 **Built with ❤️ for the Web3 community**
 
@@ -241,5 +243,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-![image](https://github.com/user-attachments/assets/28b9efac-664d-4423-ba95-5d38c01e2f50)
-0x2aE4F455D2d6402993Ebb193949F2798919d9129
