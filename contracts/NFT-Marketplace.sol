@@ -22,7 +22,7 @@ contract Project is ERC721URIStorage, Ownable, ReentrancyGuard {
         uint256 timestamp;
     }
     
-    mapping(uint256 => MarketItem) private idToMarketItem;
+      mapping(uint256 => MarketItem) private idToMarketItem;
     
     event MarketItemCreated(
         uint256 indexed tokenId,
