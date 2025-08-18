@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: mit
+// SPDX-License-Identifier: 
 pragma solidity ^0.8.19;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
@@ -210,4 +210,5 @@ contract Project is ERC721URIStorage, Ownable, ReentrancyGuard {
         payable(owner()).transfer(balance);
     }
 }
+
 
